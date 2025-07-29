@@ -1,4 +1,4 @@
-# 👩‍💻 Ziyan Chen – Fall AI Studio Project Reflection
+# 👩‍💻 Ziyan Chen – Project Reflection
 
 ## Project Theme: Understanding Student Performance through Machine Learning
 
